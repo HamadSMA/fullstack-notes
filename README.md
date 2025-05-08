@@ -1,8 +1,10 @@
 # TOP - FullStack JavaScript
 
-## 🔗 [Introduction to Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
+## General Development
 
-## 🔗 [Motivation and Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
+### 🔗 [Introduction to Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
+
+### 🔗 [Motivation and Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
 
 ### 📝 Summary:
 
@@ -29,9 +31,9 @@ Improve your typing speed and accuracy:
 
 ---
 
-## 🔗 [How Does the Web Work?](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
+### 🔗 [How Does the Web Work?](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
 
-## 🔗 [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
+### 🔗 [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
 
 ### 📝 Summary:
 
@@ -59,18 +61,21 @@ Explains the main components of the web and how it works.
 
 ---
 
-## 🔗 [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+### 🔗 [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
-## 🔗 [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+### 🔗 [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+
+### 🔗 [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
 
 ### 📝 Summary:
 
-Introducing the command line (CLI), common commands, and its applications.
+Introducing the command line (CLI) and git, and common command.
 
 ### ⭐ Key Concepts:
 
 - CLI completion with tab
 - Set VSCode to open files with 'code'
+- Git basic workflow (add, commit, status, log, push, ...etc)
 
 ### 📚 Learning Resources:
 
@@ -79,3 +84,25 @@ Introducing the command line (CLI), common commands, and its applications.
 - [Asymmetric Encryption](https://www.youtube.com/watch?v=AQDCe585Lnc) - Video
 
 ---
+
+# HTML
+
+### 🔗 [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
+
+### 🔗 [Lesson](URL)
+
+### 📝 Summary:
+
+Working with links and images in HTML
+
+### ⭐ Key Concepts:
+
+- Opening links in a new tab has a security concern
+- alt attribute for images
+- Define image size attribute from HTML
+
+### 📚 Learning Resources:
+
+- [Links and Images](https://internetingishard.netlify.app/html-and-css/links-and-images/) - Article
+- [Best Image Format for Website?](https://imagekit.io/blog/best-image-format-for-web/) - Article
+- [When to use target=”\_blank”](https://css-tricks.com/use-target_blank/) - Article
