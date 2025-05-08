@@ -58,3 +58,20 @@ Explains the main components of the web and how it works.
 - [VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ---
+
+## 🔗 [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+
+### 📝 Summary:
+
+Introducing the command line (CLI), common commands, and its applications.
+
+### ⭐ Key Concepts:
+
+- CLI completion with tab
+- Set VSCode to open files with 'code'
+
+### 📚 Learning Resources:
+
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) - Book
+
+---
