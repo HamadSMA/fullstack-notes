@@ -1,14 +1,10 @@
 # TOP - FullStack JavaScript
 
-## General Development
+## General
 
 ### 🔗 [Introduction to Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
 
 ### 🔗 [Motivation and Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
-
-### 📝 Summary:
-
-General overview of what web development is, and preparing the right mindset for the journey.
 
 ### ⭐ Key Concepts:
 
@@ -35,10 +31,6 @@ Improve your typing speed and accuracy:
 
 ### 🔗 [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
 
-### 📝 Summary:
-
-Explains the main components of the web and how it works.
-
 ### ⭐ Key Concepts:
 
 - What is the Internet
@@ -61,26 +53,29 @@ Explains the main components of the web and how it works.
 
 ---
 
+# Git and CLI
+
 ### 🔗 [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 ### 🔗 [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 
 ### 🔗 [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
 
-### 📝 Summary:
-
-Introducing the command line (CLI) and git, and common command.
+### 🔗 [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
 
 ### ⭐ Key Concepts:
 
 - CLI completion with tab
 - Set VSCode to open files with 'code'
 - Git basic workflow (add, commit, status, log, push, ...etc)
+- Writing good commit messages
 
 ### 📚 Learning Resources:
 
-- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) - Book
+- [How to Write a Git Commit Message](https://cbea.ms/git-commit/) - Article
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Docs
 - [Understanding SSH Key Pairs](https://winscp.net/eng/docs/ssh_keys) - Docs
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) - Book
 - [Asymmetric Encryption](https://www.youtube.com/watch?v=AQDCe585Lnc) - Video
 
 ---
@@ -88,12 +83,6 @@ Introducing the command line (CLI) and git, and common command.
 # HTML
 
 ### 🔗 [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
-
-### 🔗 [Lesson](URL)
-
-### 📝 Summary:
-
-Working with links and images in HTML
 
 ### ⭐ Key Concepts:
 
@@ -106,3 +95,28 @@ Working with links and images in HTML
 - [Links and Images](https://internetingishard.netlify.app/html-and-css/links-and-images/) - Article
 - [Best Image Format for Website?](https://imagekit.io/blog/best-image-format-for-web/) - Article
 - [When to use target=”\_blank”](https://css-tricks.com/use-target_blank/) - Article
+
+---
+
+# CSS
+
+### 🔗 [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
+
+### 🔗 [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
+
+### ⭐ Key Concepts:
+
+- Selectors and how to combine them
+- Specificity of selectors
+- How inheritance affect certain properties
+
+### 📚 Learning Resources:
+
+- [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units) - MDN docs
+- [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade) - Article
+
+### 🖥️ Helpful Tools:
+
+Tools mentioned or useful for this topic:
+
+- [Specificity Calculator](https://specificity.keegan.st/)
