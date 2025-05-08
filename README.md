@@ -61,6 +61,8 @@ Explains the main components of the web and how it works.
 
 ## 🔗 [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
+## 🔗 [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+
 ### 📝 Summary:
 
 Introducing the command line (CLI), common commands, and its applications.
@@ -73,5 +75,7 @@ Introducing the command line (CLI), common commands, and its applications.
 ### 📚 Learning Resources:
 
 - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) - Book
+- [Understanding SSH Key Pairs](https://winscp.net/eng/docs/ssh_keys) - Docs
+- [Asymmetric Encryption](https://www.youtube.com/watch?v=AQDCe585Lnc) - Video
 
 ---
