@@ -2,16 +2,15 @@
 ### 🔗 [Lesson](URL)
 
 ### ⭐ Key Concepts:
-- Concept 1  
-- Concept 2  
-- Concept 3  
+- Concept
+- Concept  
+- Concept  
 
 ### 📚 Learning Resources:
 - [Resource](URL) - Type
 - [Resource](URL) - Type
 
 ### 🖥️ Helpful Tools:
-Tools mentioned or useful for this topic:
 - [Tool](URL)
 - [Tool](URL)
 - [Tool](URL)

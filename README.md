@@ -53,6 +53,23 @@ Improve your typing speed and accuracy:
 
 ---
 
+### 🔗 [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
+
+### ⭐ Key Concepts:
+
+- Inspecting elements on the page
+- Access CSS overview
+
+### 📚 Learning Resources:
+
+- [CSS Overview in Chrome Dev Tools](https://www.freecodecamp.org/news/how-to-use-css-overview-in-chrome-developer-tools/) - Article
+
+### 🖥️ Helpful Tools:
+
+- [Chrome DevTools ](https://developer.chrome.com/docs/devtools/)
+
+---
+
 # Git and CLI
 
 ### 🔗 [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
@@ -117,6 +134,28 @@ Improve your typing speed and accuracy:
 
 ### 🖥️ Helpful Tools:
 
-Tools mentioned or useful for this topic:
-
 - [Specificity Calculator](https://specificity.keegan.st/)
+
+---
+
+### 🔗 [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
+
+### ⭐ Key Concepts:
+
+- Normal flow
+- Box-sizing
+- Block and inline elements
+
+---
+
+### 🔗 [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
+
+### ⭐ Key Concepts:
+
+- Alignment
+- Flexible items
+- Growing and shrinking
+
+### 📚 Learning Resources:
+
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - Article
