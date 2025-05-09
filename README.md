@@ -197,3 +197,15 @@
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript?tab=readme-ov-file#objects-and-data-structures) - Repo article
 - [airbnb-javascript-style-guide](https://github.com/airbnb/javascript) - repo Article
 ---
+### 🔗 [Arrays and Loops](https://www.theodinproject.com/lessons/foundations-arrays-and-loops)  
+
+### ⭐ Key Concepts:
+- Arrays and array methods
+- Loops  
+
+### 📚 Learning Resources:
+- [JavaScript arrays](https://www.w3schools.com/js/js_arrays.asp) - W3Schools docs
+- [JavaScript array methods](https://www.w3schools.com/js/js_array_methods.asp) - w3Schools docs
+- [Looping code](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops) MDN docs
+- [Loops: while and for](https://javascript.info/while-for) - Javascript.info docs
+---
