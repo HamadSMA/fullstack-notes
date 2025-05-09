@@ -159,3 +159,48 @@ Improve your typing speed and accuracy:
 ### 📚 Learning Resources:
 
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - Article
+---
+# JavaScript
+
+### 🔗 [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js)  
+### 🔗 [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
+
+### ⭐ Key Concepts:
+- Installing Node.js with nvm
+- Regular expressions    
+
+### 📚 Learning Resources:
+- [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions) - MDN docs
+- [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk) - Video
+
+---
+
+### 🔗 [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
+### 🔗 [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics)
+
+### ⭐ Key Concepts:
+- Debug JavaScript in the browser
+- Use of breakpoints in debugging  
+- Function expression and arrow functions
+- The call stack
+
+### 📚 Learning Resources:
+- [Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript) - Docs
+- [Pause code with breakpoints](https://developer.chrome.com/docs/devtools/javascript/breakpoints/) - Docs
+- [14 Must Know Chrome Dev Tools Tricks](https://www.youtube.com/watch?v=xkzDaKwinA8) - Video
+- [JavaScript call stack](https://www.javascripttutorial.net/javascript-call-stack/) - Article
+- [How JavaScript code is executed](https://www.youtube.com/watch?v=iLWTnMzWtj4) - Video
+
+---
+### 🔗 [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)  
+
+### ⭐ Key Concepts:
+- Planning the project
+- Pseudocode  
+- Breaking a complex problem into smaller chunks  
+
+### 📚 Learning Resources:
+- [How to think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/) - Article
+- [Think like a programmer](https://nostarch.com/thinklikeaprogrammer) - Highly recommended book by TOP
+  
+---
