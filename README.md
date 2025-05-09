@@ -14,16 +14,10 @@
 
 ### 📚 Learning Resources:
 
+- [A TOP Strategy Guide](https://dev.to/theodinproject/becoming-a-top-success-story-mindset-3dp2) - **Great article to revisit**
 - [Why learning to code is so damn hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn) - Article
 - [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) - Video
 
-### 🖥️ Helpful Tools:
-
-Improve your typing speed and accuracy:
-
-- [Typing.com](https://www.typing.com/)
-- [Keybr](http://keybr.com/)
-- [Monkeytype](https://monkeytype.com/)
 
 ---
 
@@ -47,9 +41,6 @@ Improve your typing speed and accuracy:
 - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc&t=46s) – Video
 - [VSCode Tutorial](https://www.youtube.com/watch?v=ORrELERGIHs&t=103s) – Video
 
-### 🖥️ Helpful Tools:
-
-- [VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ---
 
@@ -63,10 +54,6 @@ Improve your typing speed and accuracy:
 ### 📚 Learning Resources:
 
 - [CSS Overview in Chrome Dev Tools](https://www.freecodecamp.org/news/how-to-use-css-overview-in-chrome-developer-tools/) - Article
-
-### 🖥️ Helpful Tools:
-
-- [Chrome DevTools ](https://developer.chrome.com/docs/devtools/)
 
 ---
 
@@ -132,10 +119,6 @@ Improve your typing speed and accuracy:
 - [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units) - MDN docs
 - [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade) - Article
 
-### 🖥️ Helpful Tools:
-
-- [Specificity Calculator](https://specificity.keegan.st/)
-
 ---
 
 ### 🔗 [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
@@ -158,7 +141,7 @@ Improve your typing speed and accuracy:
 
 ### 📚 Learning Resources:
 
-- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - Article
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - **Josh Comeau**
 ---
 # JavaScript
 
@@ -203,4 +186,14 @@ Improve your typing speed and accuracy:
 - [How to think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/) - Article
 - [Think like a programmer](https://nostarch.com/thinklikeaprogrammer) - Highly recommended book by TOP
   
+---
+### 🔗 [Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)  
+
+### ⭐ Key Concepts:
+- Naming variables and functions
+- Writing good comments  
+
+### 📚 Learning Resources:
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript?tab=readme-ov-file#objects-and-data-structures) - Repo article
+- [airbnb-javascript-style-guide](https://github.com/airbnb/javascript) - repo Article
 ---
