@@ -54,6 +54,26 @@
 - [CSS Overview in Chrome Dev Tools](https://www.freecodecamp.org/news/how-to-use-css-overview-in-chrome-developer-tools/) - Article
 
 ---
+🔗 [Emmet](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-emmet)  
+🔗 []()
+
+⭐**Key Concepts:**
+
+- Using emmet
+- create custom emmet binding in VSCode
+
+---
+
+🔗 [SVG](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg)  
+🔗 []()
+
+⭐**Key Concepts:**
+
+- What SVGs, Vector Graphics, and XML are
+- How to create simple SVGs and add them to your websites
+- When to use SVGs, and when a different image format would be more appropriate
+
+---
 
 ## Git and CLI
 
@@ -61,12 +81,15 @@
 🔗 [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 🔗 [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
 🔗 [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
+🔗 [Branching](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
+
 
 ⭐ **Key Concepts:**
 
 - CLI completion with tab
 - Set VSCode to open files with 'code'
 - Git basic workflow (add, commit, status, log, push, ...etc)
+- Creating branches
 - Writing good commit messages
 
 📚 **Learning Resources:**
@@ -211,3 +234,37 @@
 - [Looping code](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops) MDN docs
 - [Loops: while and for](https://javascript.info/while-for) - Javascript.info docs
 ---
+🔗 [DOM Manipulation and Events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)  
+
+⭐**Key Concepts:**
+- What is the DOM
+- Node vs element  
+- Nodelist vs array
+- Altering the DOM
+- Event listeners
+- Event bubbling and capturing
+
+📚 **Learning Resources:**
+- [Elequent JS - DOM](https://eloquentjavascript.net/14_dom.html) - Book
+- [Elequent JS - Handling Events](https://eloquentjavascript.net/15_event.html) - Book
+- [Understanding callbacks](https://dev.to/i3uckwheat/understanding-callbacks-2o9e)
+- [JavaScript Event Capture, Propagation and Bubbling](https://www.youtube.com/watch?v=F1anRyL37lE) - Video
+---
+🔗 [Object Basics](https://www.theodinproject.com/lessons/foundations-object-basics)  
+
+⭐**Key Concepts:**
+
+- Creating objects
+- Accessing object properties
+- Using multiple object operators
+- Understanding the differences between object and primitive data types
+- Using the map, filter and reduce array methods
+
+
+📚 **Learning Resources:**
+- [Objects](https://javascript.info/object) - Javascript.info docs
+- [Javascript object basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics) - MDN docs
+- [Array methods](https://javascript.info/array-methods) - Javascript.info docs
+- [JavaScript array cardio practice](https://www.youtube.com/watch?v=HB1ZC7czKRs) - Video
+- [Array cardio day 2](https://www.youtube.com/watch?v=QNmRfyNg1lw) - Video
+
