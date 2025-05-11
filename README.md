@@ -55,7 +55,7 @@
 
 ---
 
-# Git and CLI
+## Git and CLI
 
 🔗 [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 🔗 [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
@@ -79,7 +79,7 @@
 
 ---
 
-# HTML
+## HTML
 
 🔗 [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
 
@@ -97,7 +97,7 @@
 
 ---
 
-# CSS
+## CSS
 
 🔗 [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
 🔗 [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
@@ -137,7 +137,7 @@
 
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - **Josh Comeau**
 ---
-# JavaScript
+## JavaScript
 
 🔗 [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js) 🔗 [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
 
