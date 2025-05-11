@@ -184,13 +184,25 @@
 - Browser's default styles
 - style reset and normalizing  
 
-
-
 📚 **Learning Resources:**
 
 - [Making the case for CSS normalize and reset](https://mattbrictson.com/blog/css-normalize-and-reset) - Article
 - [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) - **Josh Comeau**
   
+---
+🔗 [CSS Units](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-css-units)  
+
+⭐ **Key Concepts:**
+
+- CSS value types
+- Relative vs absolute values
+
+📚 **Learning Resources:**
+
+- [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units) - MDN docs
+- [Fun with viewport units](https://css-tricks.com/fun-viewport-units/) - CSS-Tricks
+- [CSS units](https://www.youtube.com/watch?v=N5wpD9Ov_To) - Kevin Powell video
+- [A CSS unit deep dive](https://www.youtube.com/watch?v=fzZTvLmmTzM) - Slaying The Dragon video
 ---
 ## JavaScript
 
