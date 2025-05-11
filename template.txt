@@ -1,17 +1,21 @@
-### 🔗 [Lesson](URL)  
-### 🔗 [Lesson](URL)
+🔗 [Lesson](URL)  
+🔗 [Lesson](URL)
 
-### ⭐ Key Concepts:
+⭐**Key Concepts:**
 - Concept
 - Concept  
 - Concept
 - Concept
+- Concept
+- Concept
+- Concept
 
-### 📚 Learning Resources:
+
+📚 **Learning Resources:**
 - [Resource](URL) - Type
 - [Resource](URL) - Type
-
-### 🖥️ Helpful Tools:
-- [Tool](URL)
-- [Tool](URL)
-- [Tool](URL)
+- [Resource](URL) - Type
+- [Resource](URL) - Type
+- [Resource](URL) - Type
+- [Resource](URL) - Type
+- [Resource](URL) - Type
