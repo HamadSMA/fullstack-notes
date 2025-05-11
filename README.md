@@ -119,6 +119,23 @@
 - [When to use target=”\_blank”](https://css-tricks.com/use-target_blank/) - Article
 
 ---
+🔗 [Tables](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-tables)  
+
+⭐ **Key Concepts:**
+
+- Create advanced HTML tables.
+- Table accessibility
+- UX friendly trables
+
+
+📚 **Learning Resources:**
+
+- [Table basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics) - MDN docs
+- [Table accessibility](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Table_accessibility) - MDN docs
+- [HTML table element guide](https://css-tricks.com/complete-guide-table-element/) - CSS tricks article
+- [Data Table Design UX patterns](https://www.pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables) - Pencil and Paper article
+
+---
 
 ## CSS
 
@@ -159,6 +176,21 @@
 📚 **Learning Resources:**
 
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - **Josh Comeau**
+---
+🔗 [Default Styles](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-default-styles) 
+
+⭐ **Key Concepts:**
+
+- Browser's default styles
+- style reset and normalizing  
+
+
+
+📚 **Learning Resources:**
+
+- [Making the case for CSS normalize and reset](https://mattbrictson.com/blog/css-normalize-and-reset) - Article
+- [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) - **Josh Comeau**
+  
 ---
 ## JavaScript
 
@@ -236,7 +268,8 @@
 ---
 🔗 [DOM Manipulation and Events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)  
 
-⭐**Key Concepts:**
+⭐ **Key Concepts:**
+
 - What is the DOM
 - Node vs element  
 - Nodelist vs array
@@ -245,6 +278,7 @@
 - Event bubbling and capturing
 
 📚 **Learning Resources:**
+
 - [Elequent JS - DOM](https://eloquentjavascript.net/14_dom.html) - Book
 - [Elequent JS - Handling Events](https://eloquentjavascript.net/15_event.html) - Book
 - [Understanding callbacks](https://dev.to/i3uckwheat/understanding-callbacks-2o9e)
@@ -252,7 +286,7 @@
 ---
 🔗 [Object Basics](https://www.theodinproject.com/lessons/foundations-object-basics)  
 
-⭐**Key Concepts:**
+⭐ **Key Concepts:**
 
 - Creating objects
 - Accessing object properties
@@ -262,6 +296,7 @@
 
 
 📚 **Learning Resources:**
+
 - [Objects](https://javascript.info/object) - Javascript.info docs
 - [Javascript object basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics) - MDN docs
 - [Array methods](https://javascript.info/array-methods) - Javascript.info docs
