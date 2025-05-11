@@ -6,7 +6,7 @@
 - [Monkeytype](https://monkeytype.com/)
 
 ## VSCode shortcuts
-  - [VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
  
 ## CSS spicificity calculator
 - [Specificity Calculator](https://specificity.keegan.st/)
@@ -16,4 +16,4 @@
 - [Goodle Icons](https://fonts.google.com/icons)
 
 ## Shows the browsers's default style for each element
--[Browser's default style] (https://browserdefaultstyles.com/#a)
+- [Browser's default style](https://browserdefaultstyles.com/#a)
