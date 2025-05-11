@@ -10,3 +10,7 @@
  
 ## CSS spicificity calculator
 - [Specificity Calculator](https://specificity.keegan.st/)
+
+## SVG Icon Library
+- [Feather](https://feathericons.com/)
+- [Goodle Icons](https://fonts.google.com/icons)
