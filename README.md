@@ -2,17 +2,16 @@
 
 ## General
 
-### 🔗 [Introduction to Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
+🔗 [Introduction to Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
+🔗 [Motivation and Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
 
-### 🔗 [Motivation and Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
-
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
 
 - Growth mindset
 - Persistence and grit
 - Focused learning and diffused learning
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
 
 - [A TOP Strategy Guide](https://dev.to/theodinproject/becoming-a-top-success-story-mindset-3dp2) - **Great article to revisit**
 - [Why learning to code is so damn hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn) - Article
@@ -21,18 +20,17 @@
 
 ---
 
-### 🔗 [How Does the Web Work?](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
+🔗 [How Does the Web Work?](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
+🔗 [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
 
-### 🔗 [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
-
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
 
 - What is the Internet
 - Packets and how they transfer data
 - What is a client and what is a server
 - IP addresses and DNS servers
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
 
 - [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work) – MDN Docs
 - [How the Web Works](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works#clients_and_servers) – MDN Docs
@@ -44,14 +42,14 @@
 
 ---
 
-### 🔗 [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
+🔗 [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
 
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
 
 - Inspecting elements on the page
 - Access CSS overview
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
 
 - [CSS Overview in Chrome Dev Tools](https://www.freecodecamp.org/news/how-to-use-css-overview-in-chrome-developer-tools/) - Article
 
@@ -59,22 +57,19 @@
 
 # Git and CLI
 
-### 🔗 [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+🔗 [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+🔗 [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+🔗 [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
+🔗 [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
 
-### 🔗 [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
-
-### 🔗 [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
-
-### 🔗 [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
-
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
 
 - CLI completion with tab
 - Set VSCode to open files with 'code'
 - Git basic workflow (add, commit, status, log, push, ...etc)
 - Writing good commit messages
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
 
 - [How to Write a Git Commit Message](https://cbea.ms/git-commit/) - Article
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Docs
@@ -86,15 +81,15 @@
 
 # HTML
 
-### 🔗 [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
+🔗 [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
 
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
 
 - Opening links in a new tab has a security concern
 - alt attribute for images
 - Define image size attribute from HTML
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
 
 - [Links and Images](https://internetingishard.netlify.app/html-and-css/links-and-images/) - Article
 - [Best Image Format for Website?](https://imagekit.io/blog/best-image-format-for-web/) - Article
@@ -104,26 +99,25 @@
 
 # CSS
 
-### 🔗 [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
+🔗 [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
+🔗 [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
 
-### 🔗 [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
-
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
 
 - Selectors and how to combine them
 - Specificity of selectors
 - How inheritance affect certain properties
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
 
 - [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units) - MDN docs
 - [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade) - Article
 
 ---
 
-### 🔗 [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
+🔗 [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
 
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
 
 - Normal flow
 - Box-sizing
@@ -131,43 +125,45 @@
 
 ---
 
-### 🔗 [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
+🔗 [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
 
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
 
 - Alignment
 - Flexible items
 - Growing and shrinking
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
 
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - **Josh Comeau**
 ---
 # JavaScript
 
-### 🔗 [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js)  
-### 🔗 [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
+🔗 [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js) 🔗 [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
 
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
+
 - Installing Node.js with nvm
 - Regular expressions    
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
 - [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions) - MDN docs
 - [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk) - Video
 
 ---
 
-### 🔗 [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
-### 🔗 [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics)
+🔗 [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
+🔗 [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics)
 
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
+
 - Debug JavaScript in the browser
 - Use of breakpoints in debugging  
 - Function expression and arrow functions
 - The call stack
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
+
 - [Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript) - Docs
 - [Pause code with breakpoints](https://developer.chrome.com/docs/devtools/javascript/breakpoints/) - Docs
 - [14 Must Know Chrome Dev Tools Tricks](https://www.youtube.com/watch?v=xkzDaKwinA8) - Video
@@ -175,35 +171,41 @@
 - [How JavaScript code is executed](https://www.youtube.com/watch?v=iLWTnMzWtj4) - Video
 
 ---
-### 🔗 [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)  
+🔗 [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)  
 
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
+
 - Planning the project
 - Pseudocode  
 - Breaking a complex problem into smaller chunks  
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
+
 - [How to think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/) - Article
 - [Think like a programmer](https://nostarch.com/thinklikeaprogrammer) - Highly recommended book by TOP
   
 ---
-### 🔗 [Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)  
+🔗 [Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)  
 
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
+
 - Naming variables and functions
 - Writing good comments  
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
+
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript?tab=readme-ov-file#objects-and-data-structures) - Repo article
 - [airbnb-javascript-style-guide](https://github.com/airbnb/javascript) - repo Article
 ---
-### 🔗 [Arrays and Loops](https://www.theodinproject.com/lessons/foundations-arrays-and-loops)  
+🔗 [Arrays and Loops](https://www.theodinproject.com/lessons/foundations-arrays-and-loops)  
 
-### ⭐ Key Concepts:
+⭐ **Key Concepts:**
+
 - Arrays and array methods
 - Loops  
 
-### 📚 Learning Resources:
+📚 **Learning Resources:**
+
 - [JavaScript arrays](https://www.w3schools.com/js/js_arrays.asp) - W3Schools docs
 - [JavaScript array methods](https://www.w3schools.com/js/js_array_methods.asp) - w3Schools docs
 - [Looping code](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops) MDN docs
