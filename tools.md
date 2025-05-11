@@ -14,3 +14,6 @@
 ## SVG Icon Library
 - [Feather](https://feathericons.com/)
 - [Goodle Icons](https://fonts.google.com/icons)
+
+## Shows the browsers's default style for each element
+-[Browser's default style] (https://browserdefaultstyles.com/#a)
