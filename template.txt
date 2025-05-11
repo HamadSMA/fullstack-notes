@@ -1,7 +1,8 @@
-🔗 [Lesson](URL)  
-🔗 [Lesson](URL)
+🔗 []()  
+🔗 []()
 
 ⭐**Key Concepts:**
+
 - Concept
 - Concept  
 - Concept
@@ -12,10 +13,11 @@
 
 
 📚 **Learning Resources:**
-- [Resource](URL) - Type
-- [Resource](URL) - Type
-- [Resource](URL) - Type
-- [Resource](URL) - Type
-- [Resource](URL) - Type
-- [Resource](URL) - Type
-- [Resource](URL) - Type
+
+- []() - Type
+- []() - Type
+- []() - Type
+- []() - Type
+- []() - Type
+- []() - Type
+- []() - Type
