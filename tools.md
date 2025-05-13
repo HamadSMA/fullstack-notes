@@ -29,4 +29,3 @@
 - [Monotype](https://www.monotype.com/) - Paid
 - [Adobe Fonts](https://fonts.adobe.com/fonts?browse_mode=default&cc=true&languages=ar&max_styles=26&min_styles=1&page=2) - Hosted
 - [Google Fonts](https://fonts.google.com/) - Hosted
-- [
