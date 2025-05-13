@@ -20,3 +20,10 @@
 
 ## Convert HTML to JSX
 - [HTML to JSX converter](https://transform.tools/html-to-jsx)
+
+## Fonts
+- [FontSquirrel](https://www.fontsquirrel.com/fonts/list/popular)
+- [DaFont](https://www.dafont.com/)
+- [Everything Fonts](https://everythingfonts.com/)
+- [MyFonts](https://www.myfonts.com/) - Paid
+- [Monotype](https://www.monotype.com/) - Paid
