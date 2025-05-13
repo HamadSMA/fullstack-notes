@@ -204,6 +204,24 @@
 - [CSS units](https://www.youtube.com/watch?v=N5wpD9Ov_To) - Kevin Powell video
 - [A CSS unit deep dive](https://www.youtube.com/watch?v=fzZTvLmmTzM) - Slaying The Dragon video
 ---
+🔗 [More Text Styles](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-more-text-styles)  
+
+⭐ **Key Concepts:**
+
+- Text styling
+- Using custom fonts
+- Font stack
+- Font optimization and best practices
+- Responsive font
+
+
+📚 **Learning Resources:**
+
+- [Web fonts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Web_fonts) - MDN Docs
+- [Best practices for fonts](https://web.dev/articles/font-best-practices) - Web.dev article
+- [Typography](https://web.dev/learn/design/typography#line_length) - Web.dev article
+
+---
 ## JavaScript
 
 🔗 [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js) 🔗 [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
