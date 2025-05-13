@@ -196,6 +196,8 @@
 
 - CSS value types
 - Relative vs absolute values
+- em unit can be useful for padding and margins
+- ch unit useful for limiting the paragraph length
 
 📚 **Learning Resources:**
 
