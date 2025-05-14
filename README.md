@@ -222,7 +222,21 @@
 - [Web fonts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Web_fonts) - MDN Docs
 - [Best practices for fonts](https://web.dev/articles/font-best-practices) - Web.dev article
 - [Typography](https://web.dev/learn/design/typography#line_length) - Web.dev article
+---
+🔗 [More CSS Properties](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-more-css-properties)  
 
+⭐ **Key Concepts:**
+
+- background property
+- border property
+- overflow property
+- opacity property 
+
+
+📚 **Learning Resources:**
+
+- [A List of CSS properties and their usage](https://css-tricks.com/almanac/properties/) - CSS tricks
+- [CSS properties refrence](https://www.w3schools.com/cssref/index.php) - W3Schools
 ---
 ## JavaScript
 
