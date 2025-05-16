@@ -238,6 +238,25 @@
 - [A List of CSS properties and their usage](https://css-tricks.com/almanac/properties/) - CSS tricks
 - [CSS properties refrence](https://www.w3schools.com/cssref/index.php) - W3Schools
 ---
+🔗 [Advanced Selectors](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-advanced-selectors#thunder-knowledge-check)  
+
+⭐ **Key Concepts:**
+
+- Combinator selectors 
+- Pseudo-classes
+- Pseudo-elements
+- Attribute selectors
+
+📚 **Learning Resources:**
+
+- [CSS complex selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/) - Article
+- []() - Type
+- []() - Type
+- []() - Type
+- []() - Type
+- []() - Type
+- []() - Type
+---
 ## JavaScript
 
 🔗 [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js) 🔗 [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
