@@ -266,6 +266,23 @@
 - [Position fixed vs position sticky](https://www.kevinpowell.co/article/positition-fixed-vs-sticky/) - Kevin powell article
 - [Learn CSS positions quickly](https://www.youtube.com/watch?v=MxEtxo_AaZ4&t=2s) - Slay the dragon video
 ---
+🔗 [CSS Functions](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-css-functions)
+
+⭐ **Key Concepts:**
+
+- calc()
+- min()
+- max()
+- clamp()
+
+📚 **Learning Resources:**
+
+- [CSS value functions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units/CSS_Value_Functions) - MDN docs
+- [CSS min(), max(), and clamp()](https://web.dev/articles/min-max-clamp?authuser=1) - web.dev article
+- [min(), max(), and clamp() CSS Functions](https://ishadeed.com/article/css-min-max-clamp/) - Ahmed Shadeed
+- [Practical Uses of CSS Math Functions: calc, clamp, min, max](https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max/) - moderncss.dev
+
+---
 ## JavaScript
 
 🔗 [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js) 🔗 [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
