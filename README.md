@@ -257,6 +257,22 @@
 - []() - Type
 - []() - Type
 ---
+🔗 [Positioning](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-positioning)
+
+⭐ **Key Concepts:**
+
+- Relative positioning
+- Absolute positioning
+- Fixed positioning
+- Sticky positioning
+
+📚 **Learning Resources:**
+
+- [Learn CSS positions](https://www.youtube.com/watch?v=jx5jmI0UlXU) - Web dev simplified video
+- [Absolute, Relative, Fixed Positioning: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) - CSS tricks article
+- [Position fixed vs position sticky](https://www.kevinpowell.co/article/positition-fixed-vs-sticky/) - Kevin powell article
+- [Learn CSS positions quickly](https://www.youtube.com/watch?v=MxEtxo_AaZ4&t=2s) - Slay the dragon video
+---
 ## JavaScript
 
 🔗 [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js) 🔗 [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
