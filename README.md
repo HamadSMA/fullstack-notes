@@ -55,7 +55,6 @@
 
 ---
 🔗 [Emmet](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-emmet)  
-🔗 []()
 
 ⭐**Key Concepts:**
 
@@ -65,7 +64,6 @@
 ---
 
 🔗 [SVG](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg)  
-🔗 []()
 
 ⭐**Key Concepts:**
 
@@ -250,12 +248,7 @@
 📚 **Learning Resources:**
 
 - [CSS complex selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/) - Article
-- []() - Type
-- []() - Type
-- []() - Type
-- []() - Type
-- []() - Type
-- []() - Type
+- [Selector referance](https://css-tricks.com/almanac/selectors/) - CSS tricks
 ---
 🔗 [Positioning](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-positioning)
 
