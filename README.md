@@ -283,6 +283,20 @@
 - [Practical Uses of CSS Math Functions: calc, clamp, min, max](https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max/) - moderncss.dev
 
 ---
+🔗 [Custome Properties](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-custom-properties#creating-themes-with-custom-properties)  
+
+⭐ **Key Concepts:**
+
+- Custome properties
+- Scope and root selectro
+- Dark/light theme
+- Default OS theme
+
+📚 **Learning Resources:**
+
+- [Custome properties guide](https://css-tricks.com/a-complete-guide-to-custom-properties/) - CSS tricks
+- [locally scoped custome properties](https://www.youtube.com/watch?v=_2LwjfYc1x8) - Kevin Powell video
+---
 ## JavaScript
 
 🔗 [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js) 🔗 [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
