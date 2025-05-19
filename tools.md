@@ -1,4 +1,4 @@
-# 🖥️ Helpful Tools:
+# 🖥️ Helpful Tools
 
 ## Improve your typing speed and accuracy
 - [Typing.com](https://www.typing.com/)
@@ -32,3 +32,6 @@
 - [Modern Font Stacks](https://modernfontstacks.com/#font-stacks)
 - [Font Bunny](https://fonts.bunny.net/)
 - [Font Library](https://fontlibrary.org/)
+
+## Check for browser compatibility
+- [Can I use?](https://caniuse.com/)
