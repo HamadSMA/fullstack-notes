@@ -72,6 +72,18 @@
 - When to use SVGs, and when a different image format would be more appropriate
 
 ---
+🔗 [Borwser Compatibility](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-browser-compatibility#browser-releases-and-new-css-features)
+
+⭐ **Key Concepts:**
+
+- The browser war
+- Broweser engines
+- How to check for browser support
+
+📚 **Learning Resources:**
+
+- [how-web-works](https://github.com/vasanthk/how-web-works/blob/master/README.md) - Github document
+---
 
 ## Git and CLI
 
