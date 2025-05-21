@@ -144,7 +144,19 @@
 - [Table accessibility](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Table_accessibility) - MDN docs
 - [HTML table element guide](https://css-tricks.com/complete-guide-table-element/) - CSS tricks article
 - [Data Table Design UX patterns](https://www.pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables) - Pencil and Paper article
+---
+🔗 [Form Basics](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-form-basics)  
 
+⭐ **Key Concepts:**
+
+- Form controls
+- Input elements  
+- Styling forms and for elements
+
+📚 **Learning Resources:**
+
+- [Web forms](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms#form_styling_tutorials) - MDN Docs
+- [Web.dev form course](https://web.dev/learn/forms/?authuser=1) - Web.dev course
 ---
 
 ## CSS
