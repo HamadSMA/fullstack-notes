@@ -158,7 +158,22 @@
 - [Web forms](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms#form_styling_tutorials) - MDN Docs
 - [Web.dev form course](https://web.dev/learn/forms/?authuser=1) - Web.dev course
 ---
+🔗 [Form Validation](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-form-validation)  
 
+⭐ **Key Concepts:**
+
+- Client-side form validation
+- Pattern attribute and regExp
+- Styling forms based on state
+- Form UX
+
+📚 **Learning Resources:**
+
+- [Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation) - MDN Docs
+- [Improving UX in forms](https://www.silocreativo.com/en/css-rescue-improving-ux-forms/) - Article
+- [Do's and dont's for form validation](https://threadreaderapp.com/thread/1400388896136040454.html) - Thread
+- [10 guidelines for form validation design](https://www.nngroup.com/articles/errors-forms-design-guidelines/) - Article
+---
 ## CSS
 
 🔗 [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
