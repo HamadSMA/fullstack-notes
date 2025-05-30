@@ -335,6 +335,25 @@
 
 - [Custome properties guide](https://css-tricks.com/a-complete-guide-to-custom-properties/) - CSS tricks
 - [locally scoped custome properties](https://www.youtube.com/watch?v=_2LwjfYc1x8) - Kevin Powell video
+
+---
+🔗 [Creating a Grid](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-creating-a-grid)  
+
+⭐ **Key Concepts:**
+- How to crate a grid container
+- specifying rows and columns
+- implicit rows or columns
+- Grid terminology (Lines, gutters, tracks, areas)
+
+
+📚 **Learning Resources:**
+
+- [CSS Grid layout guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS tricks
+- [Implicit vs explicit tracks](https://www.youtube.com/watch?v=8_153Zz4YI8) - Wes Bos video
+- [Inspecting CSS grid layouts](https://developer.chrome.com/docs/devtools/css/grid/) - Chrome devTools
+- [Grid terminology](https://www.youtube.com/watch?v=0m5qgfX2TVQ) - Video
+- [Basic concept of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout) - MDN docs
+
 ---
 ## JavaScript
 
