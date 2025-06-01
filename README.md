@@ -338,12 +338,14 @@
 
 ---
 🔗 [Creating a Grid](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-creating-a-grid)  
+🔗 [Positioning Grid Elements](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-positioning-grid-elements#grid-area)
 
 ⭐ **Key Concepts:**
 - How to crate a grid container
 - specifying rows and columns
 - implicit rows or columns
 - Grid terminology (Lines, gutters, tracks, areas)
+- Positioning grid items using css grid properties
 
 
 📚 **Learning Resources:**
@@ -353,6 +355,7 @@
 - [Inspecting CSS grid layouts](https://developer.chrome.com/docs/devtools/css/grid/) - Chrome devTools
 - [Grid terminology](https://www.youtube.com/watch?v=0m5qgfX2TVQ) - Video
 - [Basic concept of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout) - MDN docs
+- [Line based placements with CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Grid_layout_using_line-based_placement) - MDN docs
 
 ---
 ## JavaScript
