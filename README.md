@@ -356,6 +356,22 @@
 - [Grid terminology](https://www.youtube.com/watch?v=0m5qgfX2TVQ) - Video
 - [Basic concept of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout) - MDN docs
 - [Line based placements with CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Grid_layout_using_line-based_placement) - MDN docs
+- [Grid template areas](https://www.smashingmagazine.com/understanding-css-grid-template-areas) - Smashing magazine
+---
+🔗 [Advanced Grid Properties](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-advanced-grid-properties)
+
+⭐ **Key Concepts:**
+
+- Using repeate function and fr units
+- CSS grid minmax function
+- combining auto-fit and auto-fill with min, max minmax, and repeat
+
+📚 **Learning Resources:**
+
+- [Differences between auto-fit and auto-fill](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/) - CSS tricks
+- [auto-fit and auto-fill](https://www.youtube.com/watch?v=qjJR3qYCd54) - Kevin Powell video
+- [Summary of CSS Grid](https://www.youtube.com/watch?v=EiNiSFIPIQE) - Slaying the dragon video
+- [Interactive guide to CSS grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - **Josh Comeau**
 
 ---
 ## JavaScript
