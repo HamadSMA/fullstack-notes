@@ -484,4 +484,22 @@
 - [Array methods](https://javascript.info/array-methods) - Javascript.info docs
 - [JavaScript array cardio practice](https://www.youtube.com/watch?v=HB1ZC7czKRs) - Video
 - [Array cardio day 2](https://www.youtube.com/watch?v=QNmRfyNg1lw) - Video
+---
+🔗 [Objects and Object Constructors](https://www.theodinproject.com/lessons/node-path-javascript-objects-and-object-constructors#recommended-method-for-prototypal-inheritance)
+
+⭐ **Key Concepts:**
+
+- Objects and contructor functions
+- Prototypes and prototypal inheritance
+- The this keyword
+
+
+
+📚 **Learning Resources:**
+
+- [Understanding Prototypes and Inheritance in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript) - Tutorial
+- [Prototypal inheritance](https://javascript.info/prototype-inheritance) - javascript.info
+- [Demystifying the JavaScript this Keyword](https://www.javascripttutorial.net/javascript-this/) - javascripttutorial.net
+- [Prototype vs __proto__ vs .prototype in Javascript](https://medium.com/@eamonocallaghan/prototype-vs-proto-vs-prototype-in-javascript-6758cadcbae8) - medium
+---
 
