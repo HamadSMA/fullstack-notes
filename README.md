@@ -503,3 +503,24 @@
 - [Prototype vs __proto__ vs .prototype in Javascript](https://medium.com/@eamonocallaghan/prototype-vs-proto-vs-prototype-in-javascript-6758cadcbae8) - medium
 ---
 
+🔗 [Factory Functions and the Module Pattern](https://www.theodinproject.com/lessons/node-path-javascript-factory-functions-and-the-module-pattern)  
+
+⭐ **Key Concepts:**
+
+- Factory functions
+- Closures  
+- The object shorthand notation
+- Object destructuring
+- Private variables and functions
+- Prototypal inheritance with factories
+- The module pattern: IIFEs
+
+
+📚 **Learning Resources:**
+
+- [Scope](https://wesbos.com/javascript/03-the-tricky-bits/scope) - Wes Bos
+- [Closures](https://wesbos.com/javascript/03-the-tricky-bits/closures) - Wes Bos
+- [Modular Javascript series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f) - Youtube
+- [Design Patterns by Addy Osmani and Lydia Hallie](https://www.patterns.dev/) - Website
+---
+
