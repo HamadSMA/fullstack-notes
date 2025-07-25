@@ -550,13 +550,23 @@
 - ESM vs CommonJS
 - Entry point
 - type="moduel" attribute
-- Concept
-- Concept
-
 
 📚 **Learning Resources:**
 
 - [ES6 modules](https://www.youtube.com/watch?v=cRHQNNcYf6s) - Youtube
+---
+🔗 [npm](https://www.theodinproject.com/lessons/node-path-javascript-npm)
+
+⭐ **Key Concepts:**
+
+- package.json
+- Dependencies and devDependencies
+
+📚 **Learning Resources:**
+
+- [Downloading and installing packages locally](https://docs.npmjs.com/downloading-and-installing-packages-locally) - npm
+- [Creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file) - npm
+- [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) - Article
 ---
 
 
