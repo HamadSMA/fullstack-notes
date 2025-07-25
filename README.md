@@ -541,6 +541,23 @@
 - [Class basic syntax](https://javascript.info/class) - Javascript.info
 - [Javascript calsses series](https://www.youtube.com/playlist?list=PLtwj5TTsiP7uTKfTQbcmb59mWXosLP_7S) - Youtube
 ---
+🔗 [ES6 Modules](https://www.theodinproject.com/lessons/javascript-es6-modules#default-exports)
+
+⭐ **Key Concepts:**
+
+- Import, export
+- Defult export  
+- ESM vs CommonJS
+- Entry point
+- type="moduel" attribute
+- Concept
+- Concept
+
+
+📚 **Learning Resources:**
+
+- [ES6 modules](https://www.youtube.com/watch?v=cRHQNNcYf6s) - Youtube
+---
 
 
 
