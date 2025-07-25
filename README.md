@@ -523,4 +523,24 @@
 - [Modular Javascript series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f) - Youtube
 - [Design Patterns by Addy Osmani and Lydia Hallie](https://www.patterns.dev/) - Website
 ---
+🔗 [Classes](https://www.theodinproject.com/lessons/node-path-javascript-classes)
+
+⭐ **Key Concepts:**
+
+- Class syntax
+- Extending classes
+- Getters and setters
+- Private properties
+- Static fields and methods
+
+
+
+📚 **Learning Resources:**
+
+- [Property getters and setters](https://javascript.info/property-accessors) - Javascript.info
+- [Class basic syntax](https://javascript.info/class) - Javascript.info
+- [Javascript calsses series](https://www.youtube.com/playlist?list=PLtwj5TTsiP7uTKfTQbcmb59mWXosLP_7S) - Youtube
+---
+
+
 
