@@ -568,6 +568,20 @@
 - [Creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file) - npm
 - [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) - Article
 ---
+🔗 [Webpack](https://www.theodinproject.com/lessons/javascript-webpack#source-maps)
+
+⭐ **Key Concepts:**
+
+- Javascript bundlers
+- Plugins and loaders  
+- Dependency graphs
+- Configuring Webpack
+
+📚 **Learning Resources:**
+
+- [Webpack concepts](https://webpack.js.org/concepts/) - Docs
+- [Webpack asset management](https://webpack.js.org/guides/asset-management/) - Docs
+---
 
 
 
