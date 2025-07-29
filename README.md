@@ -582,6 +582,20 @@
 - [Webpack concepts](https://webpack.js.org/concepts/) - Docs
 - [Webpack asset management](https://webpack.js.org/guides/asset-management/) - Docs
 ---
+🔗 [Revisiting Webpack](https://www.theodinproject.com/lessons/node-path-javascript-revisiting-webpack)
 
+⭐ **Key Concepts:**
+
+- npm scripts
+- Webpack modes: development and production  
+- Template repositories
+- Automate webpack modes
+
+
+📚 **Learning Resources:**
+
+- [npm scripts](https://www.upgrad.com/blog/introduction-to-package-json-scripts-in-node-js/) - Tutorial
+- [Webpack development and production configs](https://webpack.js.org/guides/production/) - Docs
+---
 
 
