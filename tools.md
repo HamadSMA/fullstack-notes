@@ -35,3 +35,6 @@
 
 ## Check for browser compatibility
 - [Can I use?](https://caniuse.com/)
+
+## JSON
+[JSON foramtter and validator](https://jsonformatter.curiousconcept.com/)
