@@ -597,5 +597,19 @@
 - [npm scripts](https://www.upgrad.com/blog/introduction-to-package-json-scripts-in-node-js/) - Tutorial
 - [Webpack development and production configs](https://webpack.js.org/guides/production/) - Docs
 ---
+🔗 [OOP Principles](https://www.theodinproject.com/lessons/node-path-javascript-oop-principles)  
 
+⭐ **Key Concepts:**
+
+- OOP  
+- Tightly coupled vs loosely coupled modules  
+- SOLID principles  
+- Composition vs OOP  
+- PubSub  
+
+📚 **Learning Resources:**
+
+- [SOLID design principles](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9) - WDS video  
+- [Building a house from the inside out](https://www.ayweb.dev/blog/building-a-house-from-the-inside-out) - Article  
+---
 
